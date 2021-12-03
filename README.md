@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analystcat&label=Profile%20views&color=0e75b6&style=flat" alt="analystcat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=analystcat" alt="analystcat" /></a> </p>
 
 - 🔭 I’m currently working on **A annotation page made in shiny**
 
@@ -33,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=analystcat&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="analystcat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=analystcat&show_icons=true&locale=en&count_private=true" alt="analystcat" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=analystcat&show_icons=true&theme=dark&locale=en&count_private=true" alt="analystcat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analystcat&" alt="analystcat" /></p>
 
