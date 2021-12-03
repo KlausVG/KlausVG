@@ -32,7 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=analystcat&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="analystcat" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=analystcat&show_icons=true&theme=dark&locale=en&count_private=true" alt="analystcat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analystcat&" alt="analystcat" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=analystcat&show_icons=true&theme=dark&locale=en&count_private=true" alt="analystcat" /></p>
 
