@@ -1,10 +1,10 @@
-<h1 align="center"> 👋 Hello Klaus, aka Vipallegoria, Onik or AnalystCat</h1>
+<h1 align="center"> 👋 Hello Klaus, aka Vipallegoria, Onik or KlausVG </h1>
 <h3 align="center">A bioinformatics graduate student who will soon graduate. I love multivariate statistic applied in omics and I am a artist trying to expose my art in my free time !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analystcat&label=Profile%20views&color=0e75b6&style=flat" alt="analystcat" /> </p>
 
 
-- 🔭 I’m currently working on **A annotation page made in shiny**
+- 🔭 I’m currently working on **link between MITE and enhancer fixation sites on Maize**
 
 - 🌱 I’m currently learning **ML interpretability**
 
