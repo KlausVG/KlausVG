@@ -4,17 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analystcat&label=Profile%20views&color=0e75b6&style=flat" alt="analystcat" /> </p>
 
 
-- 🔭 I’m currently working on **link between MITE and enhancer fixation sites on Maize**
-
-- 🌱 I’m currently learning **ML interpretability**
-
-- 🤝 I’m looking for help with **finding a bit art data-set for ML project, finding a good omic project with open-dataset**
+- 🔭 I’m currently working on **circulating epimarkers to dectect cancer at IRSET (Rennes) **
 
 - 🎨 Find my art portfolio [https://vipallegoria.wixsite.com/site](https://vipallegoria.wixsite.com/site)
 
 - 💬 Ask me about **shiny, cell deconvolution, multi-omics**
 
-- 📫 How to reach me **klausvongrafenstein@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/klaus-von-grafenstein-4296391a3/](https://www.linkedin.com/in/klaus-von-grafenstein-4296391a3/)
 - 😄 Pronouns: They/them (iel en fr)
