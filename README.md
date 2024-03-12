@@ -8,7 +8,6 @@
 
 - 🎨 Find my art portfolio [https://vipallegoria.wixsite.com/site](https://vipallegoria.wixsite.com/site)
 
-- 💬 Ask me about **shiny, cell deconvolution, multi-omics**
 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/klaus-von-grafenstein-4296391a3/](https://www.linkedin.com/in/klaus-von-grafenstein-4296391a3/)
