@@ -1,12 +1,12 @@
 <h1 align="center"> 👋 Hello Klaus, aka Vipallegoria, Onik or KlausVG </h1>
-<h3 align="center">A bioinformatics engineer. I love TE and I am a artist trying to expose my art in my free time !</h3>
+<h3 align="center">A bioinformatics phd student I love TE and I am a artist trying to expose my art in my free time !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analystcat&label=Profile%20views&color=0e75b6&style=flat" alt="analystcat" /> </p>
 
 
 - 🔭 I’m currently working on **circulating epimarkers to dectect cancer at IRSET (Rennes) **
 
-- 🎨 Find my art portfolio [https://vipallegoria.wixsite.com/site](https://vipallegoria.wixsite.com/site)
+- 🎨 Find my zine [https://vipallegoria.itch.io/](https://vipallegoria.itch.io/)
 
 
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vipallegoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipallegoria" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/klaus-von-grafenstein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klaus-von-grafenstein" height="30" width="40" /></a>
 <a href="https://instagram.com/onik.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onik.official" height="30" width="40" /></a>
 </p>
