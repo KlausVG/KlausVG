@@ -6,13 +6,12 @@
 
 - 🔭 I’m currently working on **circulating epimarkers to dectect cancer at IRSET (Rennes) **
 
-- 🎨 Find my zine [https://vipallegoria.itch.io/](https://vipallegoria.itch.io/)
+- 🎨 Find my zines [https://vipallegoria.itch.io/](https://vipallegoria.itch.io/)
 
 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/klaus-von-grafenstein-4296391a3/](https://www.linkedin.com/in/klaus-von-grafenstein-4296391a3/)
-- 😄 Pronouns: They/them (iel en fr)
-- ⚡ Fun fact: I am from Andalusian and Bavarian descent, not french ! 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
